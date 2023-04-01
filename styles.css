@@ -104,4 +104,7 @@ a:last-child{
     border-radius: 5em;
     overflow: hidden;
 }
-
+.effect a:hover{
+    background: url("images/envelope.jpg") no-repeat;
+    overflow: hidden;
+}
